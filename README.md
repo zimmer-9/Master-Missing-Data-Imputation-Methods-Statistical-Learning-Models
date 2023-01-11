@@ -25,3 +25,6 @@ This folder contains 2 folders:
 1. Run the file `etude_2_3/result_analysis/graphics_and_results.UCI.R`
 1. Run the file `etude_2_3/result_analysis/graphics_and_results.PISA.R`
 
+# Structure of simulation study 1
+
+# Structure of simulation study 2 & 3
