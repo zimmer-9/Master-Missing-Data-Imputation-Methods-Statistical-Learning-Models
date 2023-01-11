@@ -13,16 +13,15 @@ This folder contains 2 folders:
 1. simulation_study: to replicates simulation study
 1. result_analysis: to replicates results
 
-# Replicates simulations studies
+# Replicates simulations studies and results
 
-## Replicate simulation study 1
-1. Run the file `simulation.config.R`
+## Replicate simulation study 1, 2 & 3
+1. Run the file `etude_1/simulation_study/simulation.config.R`
+1. Run the file `etude_2_3/simulation_study/simulation.config.UCI.R`
+1. Run the file `etude_2_3/simulation_study/simulation.config.PISA.R`
 
-## Replicate simulation study 2
-1. Run the file `simulation.config.UCI.R`
-
-## Replicate simulation study 3
-1. Run the file `simulation.config.PISA.R`
-
-# Replicates results
+## Replicate results
+1. Run the file `etude_1/result_analysis/graphics_and_results.R`
+1. Run the file `etude_2_3/result_analysis/graphics_and_results.UCI.R`
+1. Run the file `etude_2_3/result_analysis/graphics_and_results.PISA.R`
 
